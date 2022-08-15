@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @campodetenis
 - 👀 Computer science
-- 🌱 Everything since I'm a noob
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm interested in Everything since I'm a noob but particularly in domotics, IOT, sysadmin and game dev
 
 <!---
 campodetenis/campodetenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
